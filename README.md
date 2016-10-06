@@ -14,9 +14,3 @@ To use this template, choose one of the following options to get started:
 
 ## Projects
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-
